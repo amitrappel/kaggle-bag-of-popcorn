@@ -2,7 +2,8 @@
 Participating in "Bag of Words Meets Bags of Popcorn"
 
 # What is Bag-of-Words?
-From Scikit-Learn docs [link][bow]:
+From Scikit-Learn docs ([link][bow]):
+
 Text Analysis is a major application field for machine learning algorithms. However the raw data, a sequence of symbols cannot be fed directly to the algorithms themselves as most of them expect numerical feature vectors with a fixed size rather than the raw text documents with variable length.
 
 In order to address this, scikit-learn provides utilities for the most common ways to extract numerical features from text content, namely:
